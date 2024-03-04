@@ -1,4 +1,5 @@
 let words = [
+    
     {
         word: "addition",
         hint: "The process of adding numbers"
@@ -91,4 +92,5 @@ let words = [
         word: "library",
         hint: "Place containing collection of books"
     },
+    
 ]
