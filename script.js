@@ -4,7 +4,6 @@ timeText = document.querySelector(".time b"),
 inputField = document.querySelector("input"),
 refreshBtn = document.querySelector(".refresh-word"),
 checkBtn = document.querySelector(".check-word");
-
 let correctWord, timer;
 
 const initTimer = maxTime => {
